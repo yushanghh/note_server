@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="zeronote4you"
+  id="myeclipse.1472976246089"
+  context-root="/zeronote4you"
+  j2ee-spec="5.0"
+  archive="zeronote4you.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
